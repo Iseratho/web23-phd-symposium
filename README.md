@@ -1,6 +1,6 @@
 # Web23 PhD Symposium
 
-This is the companion repository for the paper currently under review in the [PhD Symposium track at The Web Conference 2023](https://www2023.thewebconf.org/calls/phd-symposium/). Link to the paper will be provided after review.
+This is the companion repository for the paper in the [PhD Symposium track at The Web Conference 2023](https://www2023.thewebconf.org/calls/phd-symposium/). Link to the paper: [10.1145/3543873.3587534](https://dl.acm.org/doi/10.1145/3543873.3587534).
 
 It contains the code to reproduce the example given in Figure 1:
 
